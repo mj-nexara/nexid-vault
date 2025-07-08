@@ -1,0 +1,13 @@
+{
+  "version": "1.0",
+  "documents": {
+    "constitution_en": "ipfs://QmExampleHashEnglish"
+  },
+  "ratified_on": "2025-07-10T00:00:00Z",
+  "ratified_by": [
+    {
+      "did": "did:key:z6MkGuardian1",
+      "name": "Guardian One"
+    }
+  ]
+}
